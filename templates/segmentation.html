@@ -1,0 +1,35 @@
+<! DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="/static/css/style.css">
+        <title>Segmentation page</title>
+    </head>
+    <body class="body">
+        <div>
+            <h1>AI Image Segmentation</h1>
+            <h1>Upload your medical image. Hurry upp!</h1>
+                <form action="{{ url_for('upload') }}" method="POST" enctype="multipart/form-data">
+                    <p><input type="file" name="file">
+                    <p><input type="submit" value="Загрузить">
+                </form>
+        </div>
+        <div>
+            <figure>
+                <img src= "{{ path }}"
+                    alt='Original Image'
+                    width="550"
+                    height="550">
+            </figure>
+            <figure>
+                <img src= "overlay.bmp"
+                    alt='Segmentation Image'
+                    width="550"
+                    height="550">
+            </figure>
+        </div>
+    </body>
+    <tail>
+        <h5>by A.Semenov </h5>
+    </tail>
+</html>

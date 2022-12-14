@@ -1,0 +1,7 @@
+.body{
+    text-align: center;
+    width: 850px;
+    border: 10px solid #8bce52;
+    margin: auto;
+    border-collapse: inherit;
+}
