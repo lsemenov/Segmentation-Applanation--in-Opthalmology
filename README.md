@@ -1,6 +1,7 @@
+
 <div align="center">
 
-
+  
 <img width="20%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/Mtuci_logo.png" />
 
 
@@ -18,8 +19,8 @@
 <div align="center">
 
 
-<img width="24%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/data1.png" />
-<img width="28%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/mask1.png" />
+<img width="30%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/data1.png" />
+<img width="34%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/mask1.png" />
 
 
 </div>
@@ -32,7 +33,7 @@
 <div align="center">
 
 
-<img width="24%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/result1.png" />
+<img width="34%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/result1.png" />
 
 
 </div>
@@ -137,6 +138,15 @@
   __3. В адресной строке переходите xx.xx.xx.xx:80__
   
 </details>
+
+### Результат
+
+<div align="center">
+
+<img width="45%" src="https://github.com/lsemenov/Segmentation-Applanation--in-Opthalmology/blob/master/demo/demonstration.gif" />
+  
+</div>
+
 
 ### Команда
 1. Alexey Semenov (CV, WEB) tg: @moon_resident
